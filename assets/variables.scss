@@ -1,0 +1,21 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+@import "~vuetify/src/styles/styles.sass";
+@font-face {
+	font-family: "elianto";
+	src: url("~assets/font/Elianto-Regular.ttf");
+}
+
+$body-font-family: elianto !important;
+
+.v-application {
+	font-family: elianto;
+	text-shadow: 1px 1px 1px #a2f7f6;
+
+	.title {
+		font-family: elianto;
+		text-shadow: 1px 1px 1px #a2f7f6;
+	}
+}

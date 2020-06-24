@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "elianto";
+	src: url("~assets/font/Elianto-Regular.ttf");
+}
+
+@font-face {
+	font-family: "exan";
+	src: url("~assets/font/Exan-Regular.ttf");
+}
+
+.v-application {
+	font-family: elianto !important;
+	text-shadow: 1px 1px 1px #a2f7f6;
+}
+
+.font-elianto {
+	font-family: elianto !important;
+	text-shadow: 2px 2px 6px #a2f7f6;
+}
+
+.font-exan {
+	font-family: exan !important;
+	text-shadow: 2px 2px 6px #a2f7f6;
+}
