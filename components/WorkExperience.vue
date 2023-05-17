@@ -53,7 +53,36 @@ export default {
 		return {
 			experience: [
 				{
-					year: "2019 - NOW",
+					year: "2022 - NOW",
+					company: "Stampede Solution Sdn Bhd",
+					jobTitle: "Manager, Software Development (Department Head)",
+					responsibilities: [
+						"Managing projects for different clients",
+						"Provide technical solution to internal or external parties",
+						"Managing resources for development team (around 30 people)",
+						"Mentoring, training and education to team members",
+						"Define coding standards and best practices",
+						"Decision maker for technical direction",
+						"Conduct code review and quality control on the source code",
+						"Development stacks: PHP, Laravel, NodeJs, VueJs, MySQL, Npm, Github, Linux, AWS"
+					]
+				},
+				{
+					year: "2021 - 2022",
+					company: "Fourtitude Asia Sdn Bhd",
+					jobTitle: "Head of PHP",
+					responsibilities: [
+						"Managing all projects for PHP team",
+						"Scoping and RFP for new project",
+						"As solution architect for PHP projects",
+						"Managing resources for PHP team (20+ people)",
+						"Mentoring, training and education to team members",
+						"Develop libraries or plugins for internal used",
+						"Development stacks: PHP, Laravel, Workpress, Drupal, NodeJs, VueJs, MySQL, Npm, Github, Linux, AWS"
+					]
+				},
+				{
+					year: "2019 - 2021",
 					company: "Pentajeu Sdn Bhd",
 					jobTitle: "Software Engineer",
 					responsibilities: [

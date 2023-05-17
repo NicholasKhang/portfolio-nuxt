@@ -1,0 +1,239 @@
+[
+    {
+        "title": "JustTonite",
+        "subtitle": "Hotel booking engine",
+        "img": "justtonite-com.png",
+        "link": "https://www.justtonite.com/",
+        "stacks": "Django, MySql, Redis, Docker, Stripe",
+        "developments": [
+            "Develop new features and enhancements on existing web application",
+            "Provide oauth integration for JustResi"
+        ],
+        "features": [
+            "Booking system",
+            "Admin page",
+            "Partner system",
+            "Payment gateway integration",
+            "Hotel room management"
+        ]
+    },
+    {
+        "title": "JustResi",
+        "subtitle": "Residence booking engine",
+        "img": "resi-justtonite-com.png",
+        "stacks": "NodeJs, VueJs, MySql, Docker, Stripe",
+        "developments": [
+            "Development (fullstacks) from scratch",
+            "Oauth integration from JustTonite",
+            "Payment gateway integration",
+            "Host system (like airbnb)"
+        ],
+        "features": [
+            "Booking system",
+            "Admin page",
+            "Host system",
+            "Payment gateway integration",
+            "Room management"
+        ]
+    },
+    {
+        "title": "Masterchamps",
+        "subtitle": "Online learning platform",
+        "img": "masterchamps-com.png",
+        "link": "https://masterchamps.com/",
+        "stacks": "Laravel, MySql, Cpanel",
+        "developments": [
+            "Maintenance of existing application before go live",
+            "Production deployment",
+            "Server maintenance",
+            "New features and enhancement",
+            "Payment gateway integration"
+        ],
+        "features": [
+            "Online learning system",
+            "Video streaming",
+            "Tutor and student system",
+            "Admin backoffice",
+            "Channel system (like youtube)",
+            "Rating and comments",
+            "Payment",
+            "Google and Facebook login"
+        ]
+    },
+    {
+        "title": "Edge Gaming Virtual Sports",
+        "subtitle": "Virtual sports betting platform",
+        "img": "stage-vs-velachip-com.png",
+        "link": "https://stage-vs.velachip.com/lobby",
+        "stacks": "Angularjs, Yii2, NodeJs, Socket.io, MySql",
+        "developments": [
+            "Development of live betting system from scratch",
+            "Live video streaming integration",
+            "Realtime feed",
+            "Backend development and integration",
+            "Development of backoffice and reports"
+        ],
+        "features": [
+            "Realtime video streaming",
+            "Realtime feed",
+            "Betting system",
+            "Admin backoffice",
+            "Bet history and reports",
+            "Operator management"
+        ]
+    },
+    {
+        "title": "Wasabi (Frontend)",
+        "subtitle": "Gaming platform (Frontend)",
+        "img": "wasabi-com.png",
+        "stacks": "Angularjs, Ionic, NodeJs",
+        "developments": [
+            "Maintenance of existing application",
+            "Integration with backend",
+            "Development of new features"
+        ],
+        "features": [
+            "VIP & Loyalty system",
+            "Reward store & redemption",
+            "Affiliate",
+            "Daily mission",
+            "Wallet transer and history",
+            "Launch game from multiple game provider",
+            "Mini game",
+            "Announcement"
+        ]
+    },
+    {
+        "title": "Wasabi (Backend)",
+        "subtitle": "Gaming platform (Backend)",
+        "img": "wasabi-bo-com.png",
+        "stacks": "Yii2, MySql, Socket.io",
+        "developments": [
+            "Maintenance of existing application",
+            "API for frontend",
+            "Integration with various game providers",
+            "Integration of payment gateways",
+            "Development of new features"
+        ],
+        "features": [
+            "Admin backoffice",
+            "Operator management",
+            "Operator Report",
+            "Game management & settings",
+            "Player management"
+        ]
+    },
+    {
+        "title": "Paynet Developer Portal",
+        "subtitle": "Developer Portal for Paynet",
+        "img": "web-devportal-uat-inet-paynet-my.png",
+        "stacks": "Laravel, MySql, Redis, AWS",
+        "developments": [
+            "Development of web portal",
+            "Admin backoffice",
+            "OAuth with Okta",
+            "CI/CD with Jenkins"
+        ],
+        "features": [
+            "Corporate website",
+            "Registration",
+            "Developer API documentation",
+            "Application management"
+        ]
+    },
+    {
+        "title": "UMobile (Prihatin)",
+        "subtitle": "Prihatin campaign (From government) for UMobile",
+        "img": "prihatin-u-com-my.png",
+        "stacks": "VueJs, Laravel, Drupal, MySql, Redis, AWS, Jmeter, Datadog",
+        "developments": [
+            "Solution architect",
+            "Development from scratch",
+            "Architecture design to cater high volume traffics & high availability",
+            "Integration with external parties and government",
+            "Load test"
+        ],
+        "features": [
+            "Registration of Prihatin campaign",
+            "Redemption of Prihtin campign",
+            "SMS notification",
+            "Monitoring of infrastructure and cloud services",
+            "Reports"
+        ]
+    },
+    {
+        "title": "Time",
+        "subtitle": "Corporate website for Time.com",
+        "img": "time-com-my.png",
+        "stacks": "Wordpress, MySql",
+        "developments": [
+            "Development of web portal"
+        ],
+        "features": [
+            "Corporate website for Time.com",
+            "CMS (Content Management System)"
+        ]
+    },
+    {
+        "title": "The Creator Crew (From Warner Music Asia)",
+        "subtitle": "Web portal for Warner Music Asia KOL",
+        "img": "thecreatorcrew-co.png",
+        "stacks": "Wordpress, MySql",
+        "developments": [
+            "Solution architect",
+            "Devops (WP Engine)",
+            "Development of web portal",
+            "Development of wordpress plugins and libraries"
+        ],
+        "features": [
+            "Corporate website for Warner Music Asia KOL",
+            "Registration and KOLs management",
+            "Campaign management",
+            "CMS (Content Management System)"
+        ]
+    },
+    {
+        "title": "Volare",
+        "subtitle": "Debt Collection Mangement System",
+        "img": "volare.png",
+        "stacks": "Laravel, VueJs, jQuery, Redis, MySql",
+        "developments": [
+            "Development of new features and enhancemnent",
+            "Refactor to enhance code quality and performance",
+            "Integration with external parties"
+        ],
+        "features": [
+            "Admin management",
+            "Settings",
+            "Collector management",
+            "Debt Collect Agency management",
+            "Legal management",
+            "Field visit management",
+            "SMS, Email, Letter, Calls",
+            "Reports"
+        ]
+    },
+    {
+        "title": "nicholashkang.github.io",
+        "subtitle": "Personal portfolio",
+        "img": "nicholaskhang-github-io.png",
+        "link": "https://nicholaskhang.github.io/",
+        "stacks": "VueJs, Nuxt",
+        "developments": [
+            "Development of personal portfolio"
+        ]
+    },
+    {
+        "title": "nicholashkang.github.io (Blog)",
+        "subtitle": "Personal blog",
+        "img": "nicholaskhang-github-io-my-blog.png",
+        "link": "https://nicholaskhang.github.io/my-blog/",
+        "stacks": "Gridsome",
+        "developments": [
+            "Development of personal blog"
+        ],
+        "features": [
+            "CMS (Using Markdown)"
+        ]
+    }
+]

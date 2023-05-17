@@ -55,6 +55,9 @@ export default {
 	*/
 	vuetify: {
 		customVariables: ['~/assets/scss/vuetify/variables.scss'],
+		breakpoint: {
+			mobileBreakpoint: 'xs'
+		},
 		theme: {
 			dark: true,
 			themes: {

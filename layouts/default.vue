@@ -74,32 +74,42 @@ export default {
 				{
 					icon: "mdi-home",
 					title: "Home",
-					to: "#home"
+					to: "/#home"
 				},
 				{
 					icon: "mdi-account",
 					title: "About Me",
-					to: "#about"
+					to: "/#about"
+				},
+				{
+					icon: "mdi-card-account-details",
+					title: "Portolio",
+					to: "/#portfolio"
 				},
 				{
 					icon: "mdi-flask",
 					title: "Skills",
-					to: "#skills"
+					to: "/#skills"
 				},
 				{
 					icon: "mdi-briefcase",
 					title: "Experience",
-					to: "#experience"
+					to: "/#experience"
 				},
 				{
 					icon: "mdi-school",
 					title: "Education",
-					to: "#education"
+					to: "/#education"
 				},
 				{
 					icon: "mdi-phone",
 					title: "Contact",
-					to: "#contact"
+					to: "/#contact"
+				},
+				{
+					icon: "mdi-card-text",
+					title: "Blog",
+					to: "/my-blog/"
 				}
 			],
 			miniVariant: false,

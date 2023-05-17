@@ -25,7 +25,6 @@
 						<v-img
 							:src="'/images/skills/' + item.src"
 							alt="item.name"
-							max-height="135"
 						/>
 						<span>{{ item.name }}</span>
 					</v-col>
@@ -49,6 +48,10 @@ export default {
 							src: "html5.png"
 						},
 						{
+							name: "Laravel Blade",
+							src: "laravel.png"
+						},
+						{
 							name: "JSX",
 							src: "react.png"
 						},
@@ -59,7 +62,7 @@ export default {
 						{
 							name: "Pug",
 							src: "pug.png"
-						}
+						},
 					]
 				},
 				css: {
@@ -82,17 +85,22 @@ export default {
 							src: "vuetify-logo.svg"
 						},
 						{
+							name: "Material Design",
+							src: "material-design.png"
+						},
+						{
 							name: "Adminlte",
 							src: "adminlte.png"
 						},
-						{
-							name: "Reactstrap",
-							src: "reactstrap.png"
-						},
-						{
-							name: "CoreUI",
-							src: "coreui.png"
-						}
+						
+						// {
+						// 	name: "Reactstrap",
+						// 	src: "reactstrap.png"
+						// },
+						// {
+						// 	name: "CoreUI",
+						// 	src: "coreui.png"
+						// }
 					]
 				},
 				javascript: {
@@ -106,12 +114,20 @@ export default {
 							name: "Node",
 							src: "nodejs.png"
 						},
+												{
+							name: "ExpressJs",
+							src: "expressjs.png"
+						},
+						{
+							name: "Nest JS",
+							src: "nestjs.png"
+						},
 						{
 							name: "jQuery",
 							src: "jquery.png"
 						},
 						{
-							name: "Angular1",
+							name: "Angular",
 							src: "angular.png"
 						},
 						{
@@ -123,17 +139,21 @@ export default {
 							src: "react.png"
 						},
 						{
+							name: "React Native",
+							src: "react.png"
+						},
+						{
 							name: "Socket.io",
 							src: "socketio.png"
 						},
 						{
-							name: "ExpressJs",
-							src: "expressjs.png"
-						},
-						{
 							name: "Nuxt",
 							src: "nuxt.svg"
-						}
+						},
+						{
+							name: "Gridsome",
+							src: "gridsome.svg"
+						},
 					]
 				},
 				backend: {
@@ -144,8 +164,16 @@ export default {
 							src: "php.png"
 						},
 						{
+							name: "Laravel",
+							src: "laravel.png"
+						},
+						{
 							name: "Yii2",
 							src: "yii.png"
+						},
+						{
+							name: "Wordpress",
+							src: "wordpress.png"
 						},
 						{
 							name: "MySQL",
@@ -171,6 +199,10 @@ export default {
 						{
 							name: "composer",
 							src: "composer.png"
+						},
+						{
+							name: "docker",
+							src: "docker.webp"
 						},
 						{
 							name: "VBA",

@@ -2,6 +2,7 @@
 	<div>
 		<home />
 		<about-me />
+		<portfolio />
 		<skills />
 		<work-experience />
 		<education />
@@ -12,6 +13,7 @@
 <script>
 import Home from '~/components/Home.vue'
 import AboutMe from '~/components/AboutMe.vue'
+import Portfolio from '~/components/Portfolio.vue'
 import Skills from '~/components/Skills.vue'
 import WorkExperience from '~/components/WorkExperience.vue'
 import Education from '~/components/Education.vue'
@@ -21,10 +23,11 @@ export default {
 	components: {
 		Home,
 		AboutMe,
+		Portfolio,
 		Skills,
 		WorkExperience,
 		Education,
-		Contact
+		Contact,
 	}
 };
 </script>
